@@ -1,0 +1,13 @@
+.advice{
+    margin-top:10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-advice {
+    color: #f44336;
+}
